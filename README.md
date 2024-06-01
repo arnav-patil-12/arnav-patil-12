@@ -12,4 +12,4 @@ I am an Indsutrial Engineering Student at the University of Toronto, specializin
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
-Python (pandas, numpy), C/C++, MATLAB, LaTeX
+and MATLAB too but they don't allow monochrome logos purportedly.

@@ -2,7 +2,7 @@ I am an Indsutrial Engineering Student at the University of Toronto, specializin
 
 ## Featured Projects
 
-🧠 [Neural Network From Scratch](https://github.com/arnav-patil-12/neural-network-from-scratch)\\\\
+🧠 [Neural Network From Scratch](https://github.com/arnav-patil-12/neural-network-from-scratch)////
 🗺️ [Dijkstra's Algorithm in Python](https://github.com/arnav-patil-12/dijkstra-algorithm)
 
 ## Languages

@@ -8,4 +8,5 @@ I am an Indsutrial Engineering Student at the University of Toronto, specializin
 
 ## Languages & Tools
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Python (pandas, numpy), C/C++, MATLAB, LaTeX

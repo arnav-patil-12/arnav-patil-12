@@ -1,7 +1,3 @@
-Hello! I'm an Industrial Engineering student at the University of Toronto, specializing in Operations Research, with a Minor in Artificial Intelligence Engineering. My technical skills include programming in Python, C/C++, and MATLAB. I have experience using the pandas and NumPy packages for data processing and machine learning. I am also familiar with version control using Git, and document design using LaTeX and Overleaf. 
-
-I have completed coursework in linear algebra, calculus, and programming. I have been introduced to introductory data structures and algorithms. Furthermore, I am exploring topics in ML and DSA personal projects, such as creating a neural network from scratch and implementing shortest-path algorithms. I regularly update my projects on my GitHub (arnav-patil-12). 
-
 ## Featured Projects
 
 🧠 [Deep Learning Framework with NumPy](https://github.com/arnav-patil-12/neural-network-from-scratch)    

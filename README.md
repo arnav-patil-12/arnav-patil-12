@@ -1,3 +1,5 @@
+Electrical and Computer Engineering student at the University of Toronto, with a double Minor in Engineering Business and Artificial Intelligence Engineering. Interested in computer hardware and machine intelligence.
+
 ## Featured Projects
 
 🧠 [Deep Learning Framework with NumPy](https://github.com/arnav-patil-12/neural-network-from-scratch)    

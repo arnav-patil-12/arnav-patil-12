@@ -2,6 +2,8 @@ Electrical and Computer Engineering student at the University of Toronto, with a
 
 ## Featured Projects
 
+🌎 [Static Personal Website with Hugo](https://github.com/arnav-patil-12/arnav-patil-12.github.io)
+
 🧠 [Deep Learning Framework with NumPy](https://github.com/arnav-patil-12/neural-network-from-scratch)    
 
 🗺️ [Shortest Path Problem in Python](https://github.com/arnav-patil-12/dijkstra-algorithm)
@@ -12,7 +14,6 @@ Electrical and Computer Engineering student at the University of Toronto, with a
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 and MATLAB too but they don't allow monochrome logos purportedly.
@@ -24,5 +25,4 @@ and MATLAB too but they don't allow monochrome logos purportedly.
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 

@@ -2,7 +2,7 @@ Electrical and Computer Engineering student at the University of Toronto, with a
 
 ## Featured Projects
 
-🌎 [Static Personal Website with Hugo](https://github.com/arnav-patil-12/arnav-patil-12.github.io)
+🌎 [Static Personal Website with Hugo](/arnav-patil-12.github.io)
 
 🧠 [Deep Learning Framework with NumPy](https://github.com/arnav-patil-12/neural-network-from-scratch)    
 

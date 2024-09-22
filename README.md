@@ -11,7 +11,7 @@ Electrical and Computer Engineering student at the University of Toronto, with a
 ## Course Notes
 I maintain a full notes repository on my [personal website](https://arnav-patil-12.github.io/notes), though I upload some weekly lecture notes to GitHub repos.
 
-👨‍💻 [ECE244: Programming Fundamentals](https://github.com/arnav-patil-12/ece244-notes)
+ℹ️ [MAT290: Advanced Engineering Mathematics](https://github.com/arnav-patil-12/mat290-notes)
 
 🧮 [MAT291: Introduction to Mathematical Physics](https://github.com/arnav-patil-12/mat291-notes)
 

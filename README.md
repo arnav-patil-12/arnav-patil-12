@@ -1,4 +1,4 @@
-Electrical and Computer Engineering student at the University of Toronto. I'm interested in computer hardware and digital electronics, and their applications in AIML. 
+I’m a second-year student studying Electrical and Computer Engineering (ECE) at the University of Toronto. My interests lie in computer hardware (FPGAs) and digital electronics for use in machine learning and artificial inteligence.
 
 ## Featured Projects
 

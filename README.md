@@ -2,11 +2,11 @@ I’m a second-year student studying Electrical and Computer Engineering (ECE) a
 
 ## Featured Projects
 
-💾 [Memory Initialization File Reformatter](https://github.com/arnav-patil-12/mif-serializer)
+💾 [Memory Initialization File Reformatter](https://github.com/arnav-patil-12/mif-serializer) - ECE241 final project side quest. Serializes address-indexed data values in a MIF.
 
-🌎 [Static Personal Website with Hugo](https://github.com/arnav-patil-12/arnav-patil-12.github.io)
+🌎 [Static Personal Website with Hugo](https://github.com/arnav-patil-12/arnav-patil-12.github.io) - Because courses.skule.ca doesn't have course notes.
 
-🧠 [Deep Learning Framework with NumPy](https://github.com/arnav-patil-12/neural-network-from-scratch)    
+🧠 [Deep Learning Framework with NumPy](https://github.com/arnav-patil-12/neural-network-from-scratch) - Vanilla Python neural network to teach myself about AI 🤓
 
 ## Course Notes
 I maintain a full notes repository on my [personal website](https://arnav-patil-12.github.io/notes), though I upload some weekly lecture notes to GitHub repos.

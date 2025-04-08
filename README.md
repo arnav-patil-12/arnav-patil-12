@@ -2,11 +2,11 @@ I’m a second-year student studying Electrical and Computer Engineering (ECE) a
 
 ## Featured Projects
 
+📡 [NIOS-V Sonar System](https://github.com/arnav-patil-12/niosv-sonar-system) - A hardware-driven ultrasound system implemented on the NIOS-V soft processor.
+
 💾 [Memory Initialization File Reformatter](https://github.com/arnav-patil-12/mif-serializer) - ECE241 final project side quest. Serializes address-indexed data values in a MIF.
 
 🌎 [Static Personal Website with Hugo](https://github.com/arnav-patil-12/arnav-patil-12.github.io) - A personal website which also contains a large course notes repository.
-
-🧠 [Deep Learning Framework with NumPy](https://github.com/arnav-patil-12/neural-network-from-scratch) - Vanilla Python neural network to teach myself about AI 🤓
 
 ## Course Notes
 I maintain a full notes repository on my [personal website](https://arnav-patil-12.github.io/notes), though I upload some weekly lecture notes to GitHub repos.
